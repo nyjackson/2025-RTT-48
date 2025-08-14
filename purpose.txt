@@ -1,0 +1,2 @@
+This repository will contain all projects created during the 2025 Software Engineering Per Scholas Cohort. 
+
